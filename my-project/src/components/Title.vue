@@ -18,7 +18,7 @@ export default {
 
 <style lang="scss">
     div {
-        width: 40%;
+        width: 45%;
         display: flex;
         justify-content: center;
         flex-direction: column;
@@ -26,7 +26,7 @@ export default {
     }
 
     h1 {
-        font-family: 'Ebrima';
+        font-family: 'Ebrima-bold';
         font-style: normal;
         font-weight: bold;
         font-size: 144px;
@@ -37,7 +37,7 @@ export default {
     }
 
     h2 {
-        font-family: 'Ebrima';
+        font-family: 'Ebrima-bold';
         font-style: normal;
         font-weight: bold;
         font-size: 48px;
