@@ -8,7 +8,6 @@
 
 <script>
 export default {
-
   props: {
     chapter: String,
     title_chapter: String,

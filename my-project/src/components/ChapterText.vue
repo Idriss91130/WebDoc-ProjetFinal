@@ -22,6 +22,7 @@ export default {
     align-items: center;
     justify-content: space-evenly;
     height: 40%;
+    width: 81%;
 }
 
 .line {
@@ -37,6 +38,6 @@ p {
     font-size: 24px;
     line-height: 33px;
     color: #FFFFFF;
-    text-align: center;
+    text-align: left;
 }
 </style>
