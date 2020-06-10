@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'Title',
+
   props: {
     chapter: String,
     title_chapter: String,
@@ -20,6 +20,10 @@ export default {
 <style lang="scss">
     div {
         width: 40%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
     }
 
     h1 {
